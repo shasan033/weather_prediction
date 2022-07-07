@@ -1,0 +1,14 @@
+next button:
+main > div class="pull-left text-left" > last li element > <a rel="next"
+
+button for each municipality:
+main > div class="historical-data-results hidden-lg" > form > 
+    first div for station location
+    second div for province
+    fourth div for year
+    fifth div for month
+    seventh div for access to info
+
+
+https://climate.weather.gc.ca/climate_data/daily_data_e.html?timeframe=2&Year=2007&Month=11&Day=4&hlyRange=%7C&dlyRange=1998-02-01%7C2007-11-30&mlyRange=1998-04-01%7C2007-11-01&StationID=10700&Prov=AB&urlExtension=_e.html&searchType=stnProv&optLimit=yearRange&StartYear=1840&EndYear=2022&selRowPerPage=100&Line=0&lstProvince=
+    need station, province, year, month, station id
